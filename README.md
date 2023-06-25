@@ -1,5 +1,6 @@
 # snake-game in pyhton
 This is a simple implementation of the classic Snake game using Python and Pygame.
+
 Features:
 
   1. The snake moves around the game window and the player controls its direction.
